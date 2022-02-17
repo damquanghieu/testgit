@@ -13,7 +13,7 @@ class AbcController extends Controller
      */
     public function index()
     {
-        //
+        //asdasdasdShow the form for creating a new resource.
     }
 
     /**
